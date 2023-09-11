@@ -9,9 +9,9 @@ Dataset: https://archive.ics.uci.edu/dataset/267/banknote+authentication
 
 
 <!--
-## Exploratory Data Analysis(EDA) and Visualization
+## Data Preprocessing and Feature Engineering
 
-## Model
+## Model Selection and Evaluation
 
 ## Inference 
 -->
